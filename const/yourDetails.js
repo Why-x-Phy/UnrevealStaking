@@ -1,2 +1,2 @@
 // Replace this with your staking contract address
-export const stakingContractAddress = "0x9fB6514bc5048C92c87f4d25371325758f30592A";
+export const stakingContractAddress = "0x90e9638dc0bC5Af9bBd2022F445152cB4FeF96CC";
